@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.bobrov.vyacheslav</groupId>
-	<artifactId>comsole_chat</artifactId>
+	<artifactId>console_chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>comsole_chat</name>
+	<name>console_chat</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

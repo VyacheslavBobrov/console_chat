@@ -1,4 +1,4 @@
-package ru.bobrov.vyacheslav.comsole_chat;
+package ru.bobrov.vyacheslav.console_chat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ComsoleChatApplicationTests {
+public class ConsoleChatApplicationTests
+{
 
 	@Test
 	public void contextLoads() {
